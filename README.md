@@ -1,7 +1,9 @@
-# Fiscal Example
+# Lorem Ipsum Co. Stationary Company
 ## A dashboard created in Power BI illustrating a stationary company's fiscal overview and market analysis.
 
 This repository houses a comprehensive Power BI dashboard ecosystem designed to take raw data from Lorem Ipsum Co. and turn it into actionable business intelligence. This dashboard delivers a multi-paged overview, illustrating the past year for the company. It delivers insight into revenue and expenses,and a full market analysis of countries Lorem Ipsum Co. provides to. The dashboard serves as a command center for strategic planners to seek profit maximization and other growth opportunities. This dashboard builds Lorem Ipsum Co. branding and visual storytelling, while enabling stakeholders and strategic planners to view this solution and it's KPIs seamlessly.
+
+![addfile](https://github.com/hnsmith-cs/fiscal-example-dashboard/blob/main/loremipsum-preview.png?raw=true)
 
 ## Overview
 
